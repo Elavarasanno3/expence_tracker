@@ -1,0 +1,9 @@
+.header_container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 100px;
+    padding: 20px;
+    background-color: #eeeeee;
+    border-bottom: 0.3px solid  #e1e6ee;
+}

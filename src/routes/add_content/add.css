@@ -1,0 +1,4 @@
+.add_left_right_container{
+    display: flex;
+    flex-direction: row;
+}

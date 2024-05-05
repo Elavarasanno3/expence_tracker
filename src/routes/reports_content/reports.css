@@ -1,0 +1,7 @@
+.reports_container{
+    display: flex;
+    flex-direction: column;
+}
+.left_right_reports_container{
+    display: flex;
+}

@@ -1,0 +1,12 @@
+.home_container{
+    display: flex;
+    flex-direction: column;  
+}
+.image{
+   height: calc(100vh - 100px);
+   width: calc(100vw - 350px);
+   object-fit: cover;
+}
+.left_right_container{
+    display: flex;
+}
